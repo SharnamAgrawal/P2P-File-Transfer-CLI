@@ -20,5 +20,8 @@ The architecture of this program draws its inspiration from the bittorrent proto
  3. Fetch the list of peers in the swarm using the List command.
  4. Fetch the files/folder of your interest from the available peers with Fetch command.
 
+ #### Exposure : Socket Programming, Multithreading, Python
 
+
+ 
  ###### Note : You can only download files/folders from peers only when the information of the shareable file/folderfrom the clients device gets registered with the tracker.
